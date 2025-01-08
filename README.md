@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there 👋, I'm Wisal!
+🔭 I’m currently working on [MLOps for High-Energy Physics](https://github.com/wisabd/BolognaGAN)  
+🌱 I’m learning **MLOps**, **ROOT**, and **Machine Learning**  
+💬 Ask me about **Python**, **MLOps**, or **High-Energy Physics**  
+📫 How to reach me: [email@example.com](muhammad.abdullah8@studio.unibo.it)  
+⚡ Fun fact: I love exploring cosmic mysteries!  
 
-<!--
-**wisabd/wisabd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### GitHub Stats
+![Wisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wisal123&show_icons=true&theme=radical)
 
-Here are some ideas to get you started:
+### Technologies & Tools
+- 🧬 ROOT, Python, Bash
+- 🌐 Apptainer
+- ☁️ GCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
