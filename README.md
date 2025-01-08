@@ -19,10 +19,10 @@
 
   ## 🚀 Pinned Projects
 
-### [Data Compression for ATLAS Data](https://github.com/Wisal123/Data-Compression-ATLAS)
-![GitHub Stars](https://img.shields.io/github/stars/Wisal123/Data-Compression-ATLAS?style=social)  
-🌟 A project focused on using autoencoders for compressing high-energy physics data.  
-🔧 **Tech Stack:** Python, TensorFlow, ROOT  
+### [BolOGAN Fast Calorimeter Simulation for ATLAS CERN](https://github.com/wisabd/BolognaGAN)
+![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
+🌟 A project focused on using conditional Wasserstein Generative Adversarial Networks for developing robust calorimeter simulation replacing Geant4.  
+🔧 **Tech Stack:** Python, TensorFlow, ROOT, Bash  
 ![Project Image](https://user-images.githubusercontent.com/123456789/your-image.png)
 
 ---
