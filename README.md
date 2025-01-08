@@ -6,7 +6,7 @@
 ⚡ Fun fact: I love exploring cosmic mysteries!  
 
 ### GitHub Stats
-![Wisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wisal123&show_icons=true&theme=radical)
+![Wisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
 
 ### Technologies & Tools
 - 🧬 ROOT, Python, Bash
