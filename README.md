@@ -16,4 +16,19 @@
 - 🌐 Apptainer
 - ☁️ GCP
 
-  
+
+  ## 🚀 Pinned Projects
+
+### [Data Compression for ATLAS Data](https://github.com/Wisal123/Data-Compression-ATLAS)
+![GitHub Stars](https://img.shields.io/github/stars/Wisal123/Data-Compression-ATLAS?style=social)  
+🌟 A project focused on using autoencoders for compressing high-energy physics data.  
+🔧 **Tech Stack:** Python, TensorFlow, ROOT  
+![Project Image](https://user-images.githubusercontent.com/123456789/your-image.png)
+
+---
+
+### [MLOps Pipeline Demo](https://github.com/Wisal123/MLOps-Pipeline-Demo)
+![GitHub Forks](https://img.shields.io/github/forks/Wisal123/MLOps-Pipeline-Demo?style=social)  
+🌟 End-to-end MLOps pipeline with Docker and Kubernetes.  
+🔧 **Tech Stack:** Python, Docker, Kubernetes  
+
