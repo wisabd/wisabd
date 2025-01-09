@@ -2,7 +2,7 @@
 🔭 I’m currently working on [MLOps for High-Energy Physics](https://github.com/wisabd/BolognaGAN)  
 🌱 I’m learning **MLOps**, **ROOT**, and **Machine Learning**  
 💬 Ask me about **Python**, **Applied ML**, or **High-Energy Physics**  
-📫 How to reach me: [email@example.com](muhammad.abdullah8@studio.unibo.it)  
+📫 How to reach me: [muhammad.abdullah8@studio.unibo.it](muhammad.abdullah8@studio.unibo.it)  
 ⚡ Fun fact: I love exploring cosmic mysteries!  
 
 ### GitHub Stats
