@@ -22,6 +22,7 @@
 ### [BoloGAN Fast Calorimeter Simulation for ATLAS CERN](https://github.com/wisabd/BolognaGAN)
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
 🌟 A project focused on using conditional Wasserstein Generative Adversarial Networks for developing robust calorimeter simulation replacing Geant4.  
+  My responsibility is primarily about hyperparameter tuning, and analysis of the model.
 🔧 **Tech Stack:** Python, TensorFlow, ROOT, Bash  
 ![Project Image](https://user-images.githubusercontent.com/123456789/your-image.png)
 
