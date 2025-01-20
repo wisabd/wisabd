@@ -10,7 +10,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
 ## My LeetCode Profile
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange)](https://leetcode.com/u/Code4Truth/)
+![LeetCode Stats](https://leetcard.jacoblin.cool/Code4Truth?theme=dark&font=Arial)
+
 
 
 
