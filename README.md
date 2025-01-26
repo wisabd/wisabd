@@ -30,8 +30,5 @@
 
 ---
 
-### [MLOps Pipeline Demo](https://github.com/Wisal123/MLOps-Pipeline-Demo)
-![GitHub Forks](https://img.shields.io/github/forks/Wisal123/MLOps-Pipeline-Demo?style=social)  
-🌟 End-to-end MLOps pipeline with Docker and Kubernetes.  
-🔧 **Tech Stack:** Python, Docker, Kubernetes  
+
 
