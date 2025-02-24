@@ -26,7 +26,8 @@
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
 🌟 A project focused on using conditional Wasserstein Generative Adversarial Networks for developing robust calorimeter simulation replacing Geant4.  
 🔧 **Tech Stack:** Python, TensorFlow, ROOT, Bash  
-![Project Image](https://user-images.githubusercontent.com/123456789/your-image.png)
+<img width="522" alt="Screenshot 2025-02-18 060956" src="https://github.com/user-attachments/assets/f47eace5-8e3e-42e2-999c-999ec2e4880a" />
+
 
 ---
 
