@@ -28,9 +28,12 @@
 
 ### [Practical Statistics for Physics and Astrophysics](https://github.com/wisabd/Statistics.Phy.Astrophysics)
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/Statistics.Phy.Astrophysics?style=social)  
-🌟 Tutorial projects from the graduate class Practical Statistics for Physics and Astrophysics at University of Bologna taught by Professor Metcalf.
+🌟 Tutorial projects from the graduate class Practical Statistics for Physics and Astrophysics at University of Bologna taught by Professor Metcalf
+
 🔧 **Tech Stack:** matplotlib, pandas, numpy, astropy.io
-<img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/aa6bef9e-f80c-44f3-8d08-4e1b94b35145" />
+<p align="left">
+  <img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/aa6bef9e-f80c-44f3-8d08-4e1b94b35145" />
+</p>
 
 
 ---
