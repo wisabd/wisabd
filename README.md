@@ -36,8 +36,11 @@
   <img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/aa6bef9e-f80c-44f3-8d08-4e1b94b35145" />
 </p>
 
+### Bankruptcy Predictor for companies in Poland and Taiwan using gradient boosting trees model(https://github.com/wisabd/BankruptcyPred)
+![GitHub Stars](https://img.shields.io/github/stars/wisabd/BankruptcyPred?style=social)  
 
----
+🔧 **Tech Stack:**  seaborn, pandas, sklearn, matplotlib
+
 
 
 
