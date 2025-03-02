@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Wisal!
+# Hi there 👋, I'm Wisal! I am a data analyst with research background in computational physics 
+ 
 🔭 I’m currently working on [Applied ML for High-Energy Physics](https://github.com/wisabd/BolognaGAN)  
 🌱 I’m learning **Machine Learning**, **ROOT**, and **MLOps**  
 💬 Ask me about **Python**, **Applied ML**, or **High-Energy Physics**  
