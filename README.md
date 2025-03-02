@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Wisal! I am a Data Analyst with research background in computational physics and enthusiam for Financial technologies
- 
+# Hi there 👋, I'm Wisal! I am a Data Analyst with research background in computational physics and enthusiam for Finance sector
+ 12
 🔭 I’m currently working on [Applied ML for High-Energy Physics](https://github.com/wisabd/BolognaGAN)  
 🌱 I’m learning **Machine Learning**, **ROOT**, and **MLOps**  
 💬 Ask me about **Python**, **Applied ML**, or **High-Energy Physics**  
