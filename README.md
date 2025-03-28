@@ -15,7 +15,7 @@
 ### Technologies & Tools
 - 🧬 Python, Bash
 - 🌐 Apptainer
-- ☁️ GCP
+- ☁️ AWS Sagemaker
 
 
   ## 🚀 Pinned Projects
