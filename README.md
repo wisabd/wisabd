@@ -1,5 +1,4 @@
 # Hi there 👋, I'm Wisal! Data Analyst | Computational Physics | Applied Machine Learning
- 12
 🔭 I’m currently working on [Applied ML for High-Energy Physics](https://github.com/wisabd/BolognaGAN)  
 🌱 I’m learning **Machine Learning**, **ROOT**, and **MLOps**  
 💬 Ask me about **Python**, **Applied ML**, or **High-Energy Physics**  
@@ -32,7 +31,7 @@
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/Statistics.Phy.Astrophysics?style=social)  
 🌟 Tutorial projects from the graduate class Practical Statistics for Physics and Astrophysics at University of Bologna taught by Professor Metcalf
 
-🔧 **Tech Stack:** matplotlib, pandas, numpy, astropy.io
+🔧 **Tech Stack:** seaborn, matplotlib, pandas, numpy, astropy.io, sklearn
 <p align="left">
   <img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/aa6bef9e-f80c-44f3-8d08-4e1b94b35145" />
 </p>
