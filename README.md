@@ -29,6 +29,7 @@ fraudulent credit card transactions.  Implement Synthetic Minority Oversampling 
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
 🌟   Two sagemaker models (XGBoost, Random Cut Forrest) deployed, models evoked using API gateway with a lambda function that
 invokes both models and stores their response, for further analysis. 
+
 🔧 **Tech Stack:**  AWS Lambda, SMOTE, AWS Sagemaker, S3, XGBoost
 <p align="left">
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/44f09cc1-760b-48b8-84be-6836e99e2921" />
