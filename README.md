@@ -1,8 +1,6 @@
-# Hi there 👋, I'm Wisal! Data Analyst | Computational Physics | Applied Machine Learning
-🔭 I’m currently working on [Applied ML for High-Energy Physics](https://github.com/wisabd/BolognaGAN)  
-🌱 I’m learning **Machine Learning**, **ROOT**, and **MLOps**  
-💬 Ask me about **Python**, **Applied ML**, or **High-Energy Physics**  
-📫 How to reach me: [muhammad.abdullah8@studio.unibo.it](muhammad.abdullah8@studio.unibo.it)  
+# Hi there 👋, I'm Wisal! I am a Data Analyst 
+🔭 I work on data analysis and machine learning in the domains of [Financial technologies and Computational Physics]
+📫 How to reach me: [wisal.abdullah.m@gmail.com]
 ⚡ Fun fact: I love exploring cosmic mysteries!  
 
 ###GitHub Stats
@@ -12,9 +10,9 @@
 
 
 ### Technologies & Tools
-- 🧬 Python, Bash
-- 🌐 Apptainer
-- ☁️ AWS Sagemaker
+- 🧬 Python, Bash, SQL
+- 🌐 AWS
+- 
 
 
   ## 🚀 Pinned Projects
