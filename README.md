@@ -16,7 +16,7 @@
 
 ## 🚀 Pinned Projects
 
-### [European Union Credit Card Detection](https://github.com/wisabd/BolognaGAN)
+### [European Union Credit Card Fraud Detection](https://github.com/wisabd/BolognaGAN)
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
 🌟  Determine classifier accuracy between Logistic Regression, KNearest, Support Vector Classifier, Decision Tree Classifier to detect
 fraudulent credit card transactions.  Implement Synthetic Minority Oversampling technique (SMOTE)  
@@ -25,7 +25,7 @@ fraudulent credit card transactions.  Implement Synthetic Minority Oversampling 
 <img width="522" alt="Screenshot 2025-02-18 060956" src="https://github.com/user-attachments/assets/f47eace5-8e3e-42e2-999c-999ec2e4880a" />
 </p>
 
-### [European Union Credit Card Detection In Production](https://github.com/wisabd/BolognaGAN)
+### [European Union Credit Card Fraud Detection In Production](https://github.com/wisabd/BolognaGAN)
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
 🌟  Determine classifier accuracy between Logistic Regression, KNearest, Support Vector Classifier, Decision Tree Classifier to detect
 fraudulent credit card transactions.  Implement Synthetic Minority Oversampling technique (SMOTE)  
