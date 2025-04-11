@@ -27,8 +27,8 @@ fraudulent credit card transactions.  Implement Synthetic Minority Oversampling 
 
 ### [European Union Credit Card Fraud Detection In Production](https://github.com/wisabd/BolognaGAN)
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
-🌟  Determine classifier accuracy between Logistic Regression, KNearest, Support Vector Classifier, Decision Tree Classifier to detect
-fraudulent credit card transactions.  Implement Synthetic Minority Oversampling technique (SMOTE)  
+🌟   Two sagemaker models (XGBoost, Random Cut Forrest) deployed, models evoked using API gateway with a lambda function that
+invokes both models and stores their response, for further analysis. 
 🔧 **Tech Stack:**  AWS Lambda, SMOTE, AWS Sagemaker, S3, XGBoost
 <p align="left">
 <img width="574" alt="image" src="https://github.com/user-attachments/assets/44f09cc1-760b-48b8-84be-6836e99e2921" />
