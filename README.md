@@ -31,8 +31,8 @@ fraudulent credit card transactions.  Implement Synthetic Minority Oversampling 
 fraudulent credit card transactions.  Implement Synthetic Minority Oversampling technique (SMOTE)  
 🔧 **Tech Stack:**  sklearn, matplotlib, SMOTE, scipy, seaborn
 <p align="left">
-<img width="522" alt="Screenshot 2025-02-18 060956" src="https://github.com/user-attachments/assets/f47eace5-8e3e-42e2-999c-999ec2e4880a" />
-</p>
+<img width="574" alt="image" src="https://github.com/user-attachments/assets/44f09cc1-760b-48b8-84be-6836e99e2921" />
+
   
 
 ### [BoloGAN Fast Calorimeter Simulation for ATLAS CERN](https://github.com/wisabd/BolognaGAN)
