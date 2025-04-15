@@ -56,7 +56,10 @@ invokes both models and stores their response, for further analysis.
 
 🔧 **Tech Stack:** seaborn, matplotlib, pandas, numpy, astropy.io, sklearn
 <p align="left">
-  <img width="471" alt="Screenshot 2025-02-24 073433" src="https://github.com/user-attachments/assets/aa6bef9e-f80c-44f3-8d08-4e1b94b35145" />
+  
+
+  <img width="174" alt="image" src="https://github.com/user-attachments/assets/c784a954-efa7-4538-853e-d18d616b1099" />
+
 </p>
 
 
