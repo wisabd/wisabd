@@ -1,24 +1,25 @@
-# Hi there 👋, I'm Wisal! I am a Data Analyst 
+2# Hi there 👋, I'm Wisal! I am a Data Scientist 
 🔭 I work on data analysis and machine learning in the domains of [Financial technologies and Computational Physics]
 I spend most of my time doing data analysis while also gaining important machine learning engineering skills. I have just come fresh out of graduate school where I worked in the domain of experimental particle physics experiment at CERN, providing machine learning solutions. My specializations include the data analysis using standard machine learning algorithms, performance optimization of generative models, and, just recently, pushing models into production to deliver practical solutions to business problems particularly in the domain of financial technologies.
 
 I specialize in the topic of credit card fraud detection using machine learning, and its end-to-end aspects. Proficient in Python, Bash, SQL and AWS for deployment in the cloud. I focus on delivering end-to-end solutions for practical data science projects for data-driven decision making.
 
-Beyond engineering, I am passionate about team-building, implementing innovative technologies, and guiding others in navigating their academic journeys.
 
 Let's connect to discuss scalable practical data solutions, physics, mentoring opportunities!
 📫 How to reach me: [wisal.abdullah.m@gmail.com] 
 
-###GitHub Stats
-##[Wisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
-##[Profile Views](https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
-##[[GitHub Streak](https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
+
+## GitHub Stats
+[Wisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
+[Profile Views](https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
+[[GitHub Streak](https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
+
 
 
 ### Technologies & Tools
-- 🧬 Python, Bash, SQL
+- 🧬 Python, SQL
 - 🌐 AWS (Sagemaker, Lambda, S3)
-- 🤖 TurboML
+
 
 ## 🚀 Pinned Projects
 
