@@ -5,6 +5,7 @@
 Let's connect to discuss scalable practical data solutions, physics, mentoring opportunities!
 📫 How to reach me: [wisal.abdullah.m@gmail.com] 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisabd&layout=compact&theme=radical)](https://github.com/wisabd)
 
 ## GitHub Stats
 [Wisal's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
