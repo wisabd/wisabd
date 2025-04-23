@@ -7,9 +7,9 @@ Let's connect to discuss scalable practical data solutions, physics, mentoring o
 
 
 ## GitHub Stats
-[Wisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
-[Profile Views](https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
-[[GitHub Streak](https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
+[Wisal's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
+[Profile Views]  (https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
+[[GitHub Streak] (https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
 
 
 
