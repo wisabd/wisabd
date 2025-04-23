@@ -11,7 +11,7 @@ Let's connect to discuss scalable practical data solutions, physics, mentoring o
 [Profile Views]  (https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
 [[GitHub Streak] (https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
 
-
+![LeetCode Stats](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FCode4Truth&query=%24.totalSolved&label=Total%20Problems%20Solved&color=red&style=flat)
 
 ### Technologies & Tools
 - 🧬 Python, SQL
