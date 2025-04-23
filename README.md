@@ -7,12 +7,9 @@ Let's connect to discuss scalable practical data solutions, physics, mentoring o
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisabd&layout=compact&theme=radical)](https://github.com/wisabd)
 
-## GitHub Stats
-[Wisal's GitHub Stats] (https://github-readme-stats.vercel.app/api?username=wisabd&show_icons=true&theme=radical)
-[Profile Views]  (https://komarev.com/ghpvc/?username=wisabd&style=flat-square&color=blue)
-[[GitHub Streak] (https://streak-stats.demolab.com/?user=wisabd&theme=radical)](https://git.io/wisabd)
 
-![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FCode4Truth&query=%24.totalSolved&label=Solved&color=blue) | ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Code4Truth) |
+![LeetCode](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fleetcode-stats-api.herokuapp.com%2FCode4Truth&query=%24.totalSolved&label=Solved&color=blue) | 
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=Code4Truth) |
 
 ### Technologies & Tools
 - 🧬 Python, SQL
