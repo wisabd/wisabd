@@ -12,6 +12,8 @@ Let's connect to discuss scalable practical data solutions, physics, mentoring o
 [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Code4Truth&theme=dark)](https://leetcode.com/Code4Truth/)
 | **LeetCode** | [![LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=Code4Truth&theme=dark)](https://leetcode.com/Code4Truth/)
 
+![LeetCode](https://leetcard.jacoblin.cool/Code4Truth?ext=heatmap)
+
 ### Technologies & Tools
 - 🧬 Python, SQL
 - 🌐 AWS (Sagemaker, Lambda, S3)
