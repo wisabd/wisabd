@@ -18,21 +18,14 @@ Let's connect to discuss real-time practical data solutions, physics, mentoring 
 
 ### [European Union Credit Card Fraud Detection Using Machine Learning](https://github.com/wisabd/CreditFraudML)
 ![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
+🌟   Two sagemaker models (XGBoost, Random Cut Forrest) deployed, models evoked using API gateway with a lambda function that
+invokes both models and stores their response, for further analysis.
 🌟  Determine classifier accuracy between Logistic Regression, KNearest, Support Vector Classifier, Decision Tree Classifier to detect
 fraudulent credit card transactions.  Implement Synthetic Minority Oversampling technique (SMOTE)  
-🔧 **Tech Stack:**  sklearn, matplotlib, SMOTE, scipy, seaborn
+🔧 **Tech Stack:** AWS Lambda, SMOTE, AWS Sagemaker, S3, XGBoost, sklearn, SMOTE, scipy, seaborn
 <p align="left">
-<img width="303" alt="image" src="https://github.com/user-attachments/assets/f94e3d53-88df-40b7-9403-21754ae8d2ce" />
+3![download](https://github.com/user-attachments/assets/b1a9a55f-b73f-40ce-a259-e78ba1bce3ac)
 
-
-### [European Union Credit Card Fraud Detection In Production](https://github.com/wisabd/BolognaGAN)
-![GitHub Stars](https://img.shields.io/github/stars/wisabd/BolognaGAN?style=social)  
-🌟   Two sagemaker models (XGBoost, Random Cut Forrest) deployed, models evoked using API gateway with a lambda function that
-invokes both models and stores their response, for further analysis. 
-
-🔧 **Tech Stack:**  AWS Lambda, SMOTE, AWS Sagemaker, S3, XGBoost
-<p align="left">
-<img width="574" alt="image" src="https://github.com/user-attachments/assets/44f09cc1-760b-48b8-84be-6836e99e2921" />
 
   
 
