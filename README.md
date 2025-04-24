@@ -24,7 +24,7 @@ invokes both models and stores their response, for further analysis.
 fraudulent credit card transactions.  Implement Synthetic Minority Oversampling technique (SMOTE)  
 🔧 **Tech Stack:** AWS Lambda, SMOTE, AWS Sagemaker, S3, XGBoost, sklearn, SMOTE, scipy, seaborn
 <p align="left">
-3![download](https://github.com/user-attachments/assets/b1a9a55f-b73f-40ce-a259-e78ba1bce3ac)
+![download](https://github.com/user-attachments/assets/b1a9a55f-b73f-40ce-a259-e78ba1bce3ac)
 
 
   
