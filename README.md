@@ -2,7 +2,7 @@
 🔭 I work on data analysis and classical machine learning in the domains of [Financial technologies and Computational Physics]
 
 
-Let's connect to discuss real-time practical data solutions, physics, mentoring opportunities!
+
 📫 How to reach me: [wisal.abdullah.m@gmail.com] 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisabd&layout=compact&theme=radical)](https://github.com/wisabd)
@@ -10,7 +10,7 @@ Let's connect to discuss real-time practical data solutions, physics, mentoring 
 ![LeetCode](https://leetcard.jacoblin.cool/Code4Truth?ext=heatmap)
 
 ### Technologies & Tools
-- 🧬 Python, SQL
+- 🧬 Python, SQL, Docker, Git
 - 🌐 AWS (Sagemaker, Lambda, S3)
 
 
