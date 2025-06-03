@@ -1,5 +1,5 @@
  Hi there 👋, I'm Wisal! I am a Data Scientist 
-🔭 I work on data analysis, applied data science and machine learning in the domains of [Financial technologies and Computational Physics]
+🔭 I work on data analysis and classical machine learning in the domains of [Financial technologies and Computational Physics]
 
 
 Let's connect to discuss real-time practical data solutions, physics, mentoring opportunities!
