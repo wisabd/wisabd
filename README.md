@@ -1,5 +1,5 @@
  Hi there 👋, I'm Muhammad Wisal! I am a Data Scientist 
-🔭 I work on data analysis and classical machine learning in the domains of [Financial technologies and Computational Physics]
+🔭 Machine Learning/Computational Physics
 
                                                                            🇵🇰
 
