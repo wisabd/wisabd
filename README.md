@@ -8,7 +8,6 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wisabd&layout=compact&theme=radical)](https://github.com/wisabd)
 
-![LeetCode](https://leetcard.jacoblin.cool/Code4Truth?ext=heatmap)
 
 ### Technologies & Tools
 - 🧬 Python, SQL, Docker, Git
