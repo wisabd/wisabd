@@ -1,4 +1,4 @@
- Hi there 👋, I'm Muhammad Wisal! I am a Data Scientist 
+ Hi there 👋, I'm Muhammad Wisal! M.sc Physics
 🔭 Machine Learning/Computational Physics
 
                                                                            🇵🇰
