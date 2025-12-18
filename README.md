@@ -1,7 +1,7 @@
  Hi there 👋, I'm Muhammad Wisal! M.sc Physics
 🔭 Machine Learning/Computational Physics
 
-                                                                           🇵🇰
+                                                                           
 
 
 📫 How to reach me: [wisal.abdullah.m@gmail.com] 
